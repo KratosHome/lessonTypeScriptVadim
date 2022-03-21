@@ -3,8 +3,8 @@ import * as React from "react";
 export const Navbar: React.FC = () => {
   return (
     <nav>
-      <div className="nav-wrapper purple darken-2">
-        <a href="#" className="brand-logo">
+      <div className="nav-wrapper purple darken-2 px1">
+        <a href="/" className="brand-logo">
           React+TypeScript
         </a>
         <ul  className="right hide-on-med-and-down">
